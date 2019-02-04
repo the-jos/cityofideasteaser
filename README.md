@@ -1,2 +1,2 @@
 # the-jos.github.io
-under construction page for projects
+under construction page for class projects
